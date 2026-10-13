@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christopher-el-alaoui">
+  <a href="https://www.linkedin.com/in/christopher-el-alaoui-">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -17,7 +17,7 @@
 - 🎓 Ich studiere **Wirtschaftsinformatik** an der **DHBW**
 - 💻 Am liebsten entwickle ich mit **Java**, **Python** und **TypeScript**
 - 🤖 Aktuell beschäftige ich mich viel mit **KI-gestützten Anwendungen**
-- 📫 Am besten erreichst du mich über [LinkedIn](https://www.linkedin.com/in/christopher-el-alaoui)
+- 📫 Am besten erreichst du mich über [LinkedIn](https://www.linkedin.com/in/christopher-el-alaoui-)
 
 ### 🛠️ Tech-Stack
 
