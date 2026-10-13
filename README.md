@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Christopher-El-Alaoui">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+ich+bin+Christopher+%F0%9F%91%8B;Wirtschaftsinformatik-Student+%40+DHBW;KI+%26+LLM-Anwendungen+%F0%9F%A4%96;Cloud-Native+Development+%E2%98%81%EF%B8%8F;SAP+%26+Enterprise+Software+%F0%9F%8F%A2" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+ich+bin+Christopher;Wirtschaftsinformatik-Student+%40+DHBW;KI+%26+LLM-Anwendungen;Cloud-Native+Development;SAP+%26+Enterprise+Software" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,12 +15,11 @@
   <a href="https://github.com/Christopher-El-Alaoui">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Christopher-El-Alaoui&style=for-the-badge&color=36BCF7&label=Profilaufrufe" alt="Profilaufrufe" />
 </p>
 
 ---
 
-## 🙋‍♂️ Über mich
+## Über mich
 
 ```yaml
 name: Christopher El Alaoui
@@ -33,16 +32,16 @@ fokus:
 motto: "Business verstehen, Technik bauen."
 ```
 
-- 🎓 Ich studiere **Wirtschaftsinformatik** an der **DHBW** – genau an der Schnittstelle zwischen Business und IT
-- 🤖 Mein Herz schlägt für **KI**: LLMs, Agenten, Prompt Engineering und KI-gestützte Tools
-- ☁️ Ich baue und deploye Anwendungen in der **Cloud**
-- 🏢 Ich interessiere mich für **SAP** und wie große Unternehmen ihre Prozesse digitalisieren
-- 💻 Am liebsten code ich mit **Java**, **Python** und **TypeScript**
-- 📫 Am besten erreichst du mich über [LinkedIn](https://www.linkedin.com/in/christopher-el-alaoui)
+- Ich studiere **Wirtschaftsinformatik** an der **DHBW** – genau an der Schnittstelle zwischen Business und IT
+- Schwerpunkt **KI**: LLMs, Agenten, Prompt Engineering und KI-gestützte Tools
+- Ich baue und deploye Anwendungen in der **Cloud**
+- Ich interessiere mich für **SAP** und wie große Unternehmen ihre Prozesse digitalisieren
+- Am liebsten code ich mit **Java**, **Python** und **TypeScript**
+- Am besten erreichst du mich über [LinkedIn](https://www.linkedin.com/in/christopher-el-alaoui)
 
 ---
 
-## 🤖 KI & Machine Learning
+## KI & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
@@ -56,7 +55,7 @@ motto: "Business verstehen, Technik bauen."
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-## ☁️ Cloud & DevOps
+## Cloud & DevOps
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
@@ -69,7 +68,7 @@ motto: "Business verstehen, Technik bauen."
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-## 🏢 SAP & Enterprise
+## SAP & Enterprise
 
 <p>
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
@@ -80,7 +79,7 @@ motto: "Business verstehen, Technik bauen."
   <img src="https://img.shields.io/badge/ERP%20%26%20BPMN-6C757D?style=for-the-badge" alt="ERP & BPMN" />
 </p>
 
-## 💻 Sprachen & Frameworks
+## Sprachen & Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -97,7 +96,7 @@ motto: "Business verstehen, Technik bauen."
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
-## 🧰 Tools
+## Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -110,44 +109,23 @@ motto: "Business verstehen, Technik bauen."
 
 ---
 
-## 🚀 Woran ich gerade arbeite
+## Woran ich gerade arbeite
 
-| | Bereich | Was ich mache |
-|---|---|---|
-| 🤖 | **KI-Assistenten** | Eigene LLM-basierte Assistenten und Agenten mit TypeScript & Python |
-| 🧠 | **KI-Workflows** | Automatisierung von Aufgaben mit Prompt Engineering und KI-Tools |
-| ☁️ | **Cloud-Apps** | Webanwendungen bauen, containerisieren und in der Cloud deployen |
-| 🏢 | **SAP** | Einstieg in SAP S/4HANA, BTP und ABAP |
-| 🌐 | **Webentwicklung** | Full-Stack-Projekte mit Java, TypeScript und modernen Frameworks |
-| 📱 | **Mobile** | Android-Apps mit Java |
+| Bereich | Was ich mache |
+|---|---|
+| **KI-Assistenten** | Eigene LLM-basierte Assistenten und Agenten mit TypeScript & Python |
+| **KI-Workflows** | Automatisierung von Aufgaben mit Prompt Engineering und KI-Tools |
+| **Cloud-Apps** | Webanwendungen bauen, containerisieren und in der Cloud deployen |
+| **SAP** | Einstieg in SAP S/4HANA, BTP und ABAP |
+| **Webentwicklung** | Full-Stack-Projekte mit Java, TypeScript und modernen Frameworks |
+| **Mobile** | Android-Apps mit Java |
 
-## 🌱 Was ich als Nächstes lerne
+## Was ich als Nächstes lerne
 
-- 🧩 KI-Agenten & Retrieval-Augmented Generation (RAG)
-- ☁️ Cloud-Zertifizierungen (AWS / Azure)
-- 🏢 SAP BTP & SAP-KI-Services
-- ⚙️ Kubernetes & Infrastructure as Code
-
----
-
-## 📈 GitHub-Statistiken
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Christopher-El-Alaoui&show_icons=true&hide_border=true&theme=tokyonight&locale=de" alt="GitHub-Statistiken" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-El-Alaoui&layout=compact&hide_border=true&theme=tokyonight&locale=de" alt="Meistgenutzte Sprachen" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Christopher-El-Alaoui&theme=tokyonight&hide_border=true&locale=de" alt="GitHub-Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christopher-El-Alaoui&theme=tokyo-night&hide_border=true" alt="Aktivitätsgraph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Christopher-El-Alaoui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophäen" />
-</p>
+- KI-Agenten & Retrieval-Augmented Generation (RAG)
+- Cloud-Zertifizierungen (AWS / Azure)
+- SAP BTP & SAP-KI-Services
+- Kubernetes & Infrastructure as Code
 
 ---
 
