@@ -1,19 +1,23 @@
 <h1 align="center">Hi, ich bin Christopher 👋</h1>
 
 <p align="center">
-  Wirtschaftsinformatik-Student an der DHBW · Softwareentwicklung zwischen Business und Technik
+  Wirtschaftsinformatik-Student an der DHBW · Softwareentwicklung & Tech-Enthusiast
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/christopher-el-alaoui">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
 ### 🙋‍♂️ Über mich
 
-- 🎓 Ich studiere **Wirtschaftsinformatik** an der **DHBW** (Jahrgang 2024)
-- 💻 Am liebsten entwickle ich Anwendungen mit **Java**, **Python** und **TypeScript**
-- 📊 Mich interessieren Schnittstellen zwischen Wirtschaft und IT – z. B. Finanz- und Reporting-Tools
-- 🤖 Aktuell beschäftige ich mich mit **KI-gestützten Anwendungen**
-- 🌱 Ich lerne gerade: _…_
-- 📫 Kontakt: _…_
+- 🎓 Ich studiere **Wirtschaftsinformatik** an der **DHBW**
+- 💻 Am liebsten entwickle ich mit **Java**, **Python** und **TypeScript**
+- 🤖 Aktuell beschäftige ich mich viel mit **KI-gestützten Anwendungen**
+- 📫 Am besten erreichst du mich über [LinkedIn](https://www.linkedin.com/in/christopher-el-alaoui)
 
 ### 🛠️ Tech-Stack
 
@@ -25,18 +29,18 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
 ### 🚀 Woran ich arbeite
 
-- **Webanwendungen & Plattformen** – Full-Stack-Projekte mit Java und TypeScript
-- **Finanz-/Reporting-Tools** – Automatisierung rund um Bilanzdaten und XBRL
-- **Mobile Apps** – Android-Entwicklung mit Java
-- **KI-Projekte** – Assistenten und Tools auf Basis von Sprachmodellen
+- 🌐 **Webanwendungen** – Full-Stack-Projekte mit Java und TypeScript
+- 📱 **Mobile Apps** – Android-Entwicklung mit Java
+- 🤖 **KI-Projekte** – Assistenten und Tools auf Basis von Sprachmodellen
 
 ### 📈 GitHub-Statistiken
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Christopher-El-Alaoui&show_icons=true&count_private=true&hide_border=true&locale=de" alt="GitHub-Statistiken" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Christopher-El-Alaoui&show_icons=true&hide_border=true&locale=de" alt="GitHub-Statistiken" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-El-Alaoui&layout=compact&hide_border=true&locale=de" alt="Meistgenutzte Sprachen" />
 </p>
